@@ -1,0 +1,13 @@
+C:\Users\Codellege\Documents\Programacion .NET\RepartoSushi\RepartoSushi\bin\Debug\netcoreapp3.1\RepartoSushi.exe
+C:\Users\Codellege\Documents\Programacion .NET\RepartoSushi\RepartoSushi\bin\Debug\netcoreapp3.1\RepartoSushi.deps.json
+C:\Users\Codellege\Documents\Programacion .NET\RepartoSushi\RepartoSushi\bin\Debug\netcoreapp3.1\RepartoSushi.runtimeconfig.json
+C:\Users\Codellege\Documents\Programacion .NET\RepartoSushi\RepartoSushi\bin\Debug\netcoreapp3.1\RepartoSushi.runtimeconfig.dev.json
+C:\Users\Codellege\Documents\Programacion .NET\RepartoSushi\RepartoSushi\bin\Debug\netcoreapp3.1\RepartoSushi.dll
+C:\Users\Codellege\Documents\Programacion .NET\RepartoSushi\RepartoSushi\bin\Debug\netcoreapp3.1\RepartoSushi.pdb
+C:\Users\Codellege\Documents\Programacion .NET\RepartoSushi\RepartoSushi\obj\Debug\netcoreapp3.1\RepartoSushi.csprojAssemblyReference.cache
+C:\Users\Codellege\Documents\Programacion .NET\RepartoSushi\RepartoSushi\obj\Debug\netcoreapp3.1\RepartoSushi.AssemblyInfoInputs.cache
+C:\Users\Codellege\Documents\Programacion .NET\RepartoSushi\RepartoSushi\obj\Debug\netcoreapp3.1\RepartoSushi.AssemblyInfo.cs
+C:\Users\Codellege\Documents\Programacion .NET\RepartoSushi\RepartoSushi\obj\Debug\netcoreapp3.1\RepartoSushi.csproj.CoreCompileInputs.cache
+C:\Users\Codellege\Documents\Programacion .NET\RepartoSushi\RepartoSushi\obj\Debug\netcoreapp3.1\RepartoSushi.dll
+C:\Users\Codellege\Documents\Programacion .NET\RepartoSushi\RepartoSushi\obj\Debug\netcoreapp3.1\RepartoSushi.pdb
+C:\Users\Codellege\Documents\Programacion .NET\RepartoSushi\RepartoSushi\obj\Debug\netcoreapp3.1\RepartoSushi.genruntimeconfig.cache
